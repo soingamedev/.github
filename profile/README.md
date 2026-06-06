@@ -16,13 +16,13 @@ Além de criar nossos próprios universos, utilizamos nosso [site oficial e blog
 
 Atualmente, estamos trabalhando ativamente nas seguintes ferramentas em fase Alpha:
 
-### Sprite Dust
+### [Sprite Dust](https://soingamedev.itch.io/sprite-dust)
 Editor local focado na criação de pixel art e VFX editáveis para jogos. 
 * **Recursos Principais:** Canvas PixiJS, timeline com layers, presets procedurais, autosave e integração com servidor MCP.
 * **Formatos de Exportação:** PNG, ZIP, GIF e `.pixelvfx.json`.
 * **Plataformas:** Web, Windows, Linux e MacOS.
 
-### ChiPyTune
+### [ChiPyTune](https://soingamedev.itch.io/chipytune)
 Ferramenta *source-available* dedicada à criação de música e efeitos sonoros (SFX) com a clássica estética e limitações sonoras do Game Boy.
 * **Recursos Principais:** Suporte a GUI desktop, CLI, API HTTP e servidor MCP. Trabalha com projetos em JSON totalmente editáveis.
 * **Formatos de Exportação:** Renderização direta para WAV e OGG.
